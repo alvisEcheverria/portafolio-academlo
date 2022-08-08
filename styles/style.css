@@ -268,12 +268,11 @@ h3{
 /*************************************************************/
 /* Mis Habilidades */
 
-.percent-container{
+#my-abilities{
     display: flex;
     flex-direction: column;
     align-items: center;
     margin: 0 10%;
-    margin-left: 13%;
     gap: 1rem;
 }
 
