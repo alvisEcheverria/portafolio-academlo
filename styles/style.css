@@ -414,7 +414,7 @@ footer{
     .services-container{
         overflow-x: auto;
     }
- 
+
 }
 
 @media screen and (max-width: 48rem){
@@ -603,6 +603,7 @@ footer{
     /*Mobile Services*/
 
     .services-container{
+        margin: 0 0 0 2rem;
         overflow-x: auto;
     }
 /****************************************/
