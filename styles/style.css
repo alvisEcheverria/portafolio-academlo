@@ -605,7 +605,14 @@ footer{
     .services-container{
         overflow-x: auto;
     }
-
+/****************************************/
+ /*portafolio*/
+ 
+    .portafolio img{
+        width: 30rem;
+        height: 25rem;
+    }
+   
 /****************************************/
     /*Mobile Contact*/
 
