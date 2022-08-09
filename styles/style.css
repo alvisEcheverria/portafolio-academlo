@@ -133,22 +133,21 @@ h3{
 /* Person Desktop */
 
 .my-person{
-    margin: 0 10rem;
     background-image: url(../img/photo\ desktop.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    margin-bottom: 24rem;
+    height: 68.5rem;
+    margin-bottom: 27rem;
     position: relative;
 }
 
 .my-person::before{
     content: "";
     background-color: var(--dark);
-    width: 0;
-    height: 0;
+    width: 68.5rem;
+    height: 100%;
     border-radius: 50%;
-    padding: 31%;
     position: absolute;
     top: 8rem;
     bottom: 0;
@@ -166,7 +165,7 @@ h3{
     position: relative;
     bottom: 1rem;
     gap: 4rem;
-    padding-right: 2rem;
+    margin-left: 10rem;
 }
 
 .space-bar{
@@ -203,10 +202,10 @@ h3{
     display: flex;
     flex-direction: row;
     justify-content:space-evenly;
-    margin: 0 3rem;
+    margin: 0 13rem;
     gap: 3%;
     position: relative;
-    top: 19.8rem;
+    top: 22.4rem;
 }
 
 .logo-size{
@@ -238,12 +237,6 @@ h3{
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 8%;
     margin: 0 6%;
-    /*display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    gap: 2%;
-    margin: 0 8%;*/
 }
 
 .logo-service{
