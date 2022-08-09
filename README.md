@@ -1,1 +1,1 @@
-# portafolio-academlo https://portafolio-alvisecheverria.netlify.app/index.html#contact
+# portafolio-academlo https://portafolio-alvisecheverria.netlify.app/index.html
